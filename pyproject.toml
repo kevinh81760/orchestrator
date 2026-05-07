@@ -1,0 +1,14 @@
+[project]
+name = "orchestrator"
+version = "0.1.0"
+description = "Kitchen robotics orchestration runtime"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
