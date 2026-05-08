@@ -1,0 +1,1 @@
+"""gRPC order gateway adapter."""

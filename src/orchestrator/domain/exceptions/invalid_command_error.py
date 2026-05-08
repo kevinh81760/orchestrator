@@ -1,0 +1,1 @@
+"""Raised for invalid commands."""

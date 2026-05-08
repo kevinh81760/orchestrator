@@ -1,0 +1,1 @@
+"""TCP PLC server adapter."""

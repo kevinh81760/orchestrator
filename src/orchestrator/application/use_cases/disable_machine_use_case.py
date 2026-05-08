@@ -1,0 +1,1 @@
+"""Disable machine use case."""

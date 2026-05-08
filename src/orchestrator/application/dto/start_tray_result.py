@@ -1,0 +1,1 @@
+"""Start tray result DTO."""
